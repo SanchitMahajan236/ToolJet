@@ -15,7 +15,7 @@
     "@sentry/react": "^7.60.0",
     "@sentry/tracing": "^7.60.0",
     "@sentry/webpack-plugin": "^2.5.0",
-    "@tabler/icons-react": "^2.4.0",
+    "@tabler/icons-react": "^2.34.0",
     "@tooljet/plugins": "../plugins",
     "@uiw/react-codemirror": "^3.0.6",
     "@y-presence/react": "^2.0.1",
