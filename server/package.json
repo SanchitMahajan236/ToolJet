@@ -79,7 +79,7 @@
     "reflect-metadata": "^0.1.13",
     "request-ip": "^3.3.0",
     "rxjs": "^7.2.0",
-    "sanitize-html": "^2.7.0",
+    "sanitize-html": "^2.12.1",
     "semver": "^7.3.5",
     "ts-node": "^10.0.0",
     "tsconfig-paths": "^3.10.1",
